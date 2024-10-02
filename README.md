@@ -7,3 +7,7 @@
 ## About Me
 
 I’m a driven software developer with a passion for building seamless, end-to-end solutions. With a solid foundation in both front-end and back-end development, I’m always exploring new technologies to craft innovative and efficient systems. My focus is on delivering real-world impact through high-quality, well-integrated projects, continuously pushing the boundaries of what’s possible in tech.
+
+ <a href="https://linkedin.com/in/houssam-eddine-elmamouni">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
