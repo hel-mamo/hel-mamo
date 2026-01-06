@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
-<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J4c2RhNWp4ZGR6aHN3ZTlhbHByNGVnNWtlZXVyZzdhMm5tMnBjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fMzSSWTeWBBxnrhR6H/giphy.gif" width="45px"> I'm Houssam Eddine EL MAMOUNI, a Software Developer and Student at 1337.</p>
+<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J4c2RhNWp4ZGR6aHN3ZTlhbHByNGVnNWtlZXVyZzdhMm5tMnBjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fMzSSWTeWBBxnrhR6H/giphy.gif" width="45px"> I'm Houssam Eddine EL MAMOUNI, a Junior Software Developer.</p>
 
 [![hel-mamo's 42 stats](https://badge.mediaplus.ma/greenbinary/hel-mamo)](https://github.com/oakoudad/badge42)
 
